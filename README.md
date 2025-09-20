@@ -1,6 +1,7 @@
 # Real-Time Face Recognition System 🕵️‍♂️
 
-![Spyfix Demo](front.jpg)
+
+<img width="295" height="290" alt="logo" src="https://github.com/user-attachments/assets/fb9627cd-d8ad-46f9-88cf-37f8bea9aec6" />
 
 This is a Python-based application that uses computer vision to perform real-time face recognition from a webcam feed. It features a graphical user interface (GUI) built with **Tkinter** for easy interaction. The system allows for the registration of new users, classifying them as either "Criminal" or "Hostage," and can then identify these registered individuals in a live video stream.
 
